@@ -3,7 +3,7 @@ Meta.Description=txAdmin Server Manager for FiveM and RedM
 Meta.OS=Windows, Linux
 Meta.AarchSupport=Unknown
 Meta.Arch=x86_64
-Meta.Author=Greelan
+Meta.Author=DTrox
 Meta.URL=https://txadmin.gg/
 Meta.DisplayImageSource=url:https://github.com/tabarra/txAdmin/blob/master/docs/banner.png?raw=true
 Meta.EndpointURIFormat=
